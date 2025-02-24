@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "title": "Avatar",
+        "year": 2009,
+        "director": "James Cameron",
+        "producers": "James Cameron, Jon Landau",
+        "box_office": "$2.923",
+        "country": "United Kingdom United States",
+        "cover": "posters/avatar.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "director": "Anthony RussoJoe Russo",
+        "producers": "Kevin Feige",
+        "box_office": "$2.799",
+        "country": "United States",
+        "cover": "posters/Avengers_Endgame_poster.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Avatar: The Way of Water",
+        "year": 2022,
+        "director": "James Cameron",
+        "producers": "James Cameron, Jon Landau",
+        "box_office": "$2.320",
+        "country": "United States",
+        "cover": "posters/220px-Avatar_The_Way_of_Water_poster.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Titanic",
+        "year": 1997,
+        "director": "James Cameron",
+        "producers": "James Cameron, Jon Landau",
+        "box_office": "$2.264",
+        "country": "United States",
+        "cover": "posters/titanic.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Star Wars: The Force Awakens",
+        "year": 2015,
+        "director": "J. J. Abrams",
+        "producers": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+        "box_office": "$2.07",
+        "country": "United States",
+        "cover": "posters/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "director": "Anthony RussoJoe Russo",
+        "producers": "Kevin Feige",
+        "box_office": "$2.052",
+        "country": "United States",
+        "cover": "posters/Avengers_Infinity_War_poster.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "director": "Jon Watts",
+        "producers": "Kevin Feige, Amy Pascal",
+        "box_office": "$1.953",
+        "country": "United States",
+        "cover": "posters/220px-Spider-Man_No_Way_Home_poster.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Ne Zha 2 \u2020",
+        "year": 2025,
+        "director": "Jiaozi",
+        "producers": "Liu Wenzhang, Wang Jing",
+        "box_office": "US$1.79",
+        "country": "China",
+        "cover": "posters/220px-Ne_Zha_2_poster.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Inside Out 2",
+        "year": 2024,
+        "director": "Kelsey Mann",
+        "producers": "Mark Nielsen",
+        "box_office": "$1.699",
+        "country": "United States",
+        "cover": "posters/220px-Inside_Out_2_poster.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Jurassic World",
+        "year": 2015,
+        "director": "Colin Trevorrow",
+        "producers": "Frank Marshall, Patrick Crowley",
+        "box_office": "$1.671",
+        "country": "United States",
+        "cover": "posters/220px-Jurassic_World_poster.jpg"
+    },
+    {
+        "id": 11,
+        "title": "The Lion King",
+        "year": 2019,
+        "director": "Jon Favreau",
+        "producers": "Jon Favreau, Jeffrey Silver, Karen Gilchrist",
+        "box_office": "$1.657",
+        "country": "United States",
+        "cover": "posters/Disney_The_Lion_King_2019.jpg"
+    },
+    {
+        "id": 12,
+        "title": "The Avengers",
+        "year": 2012,
+        "director": "Joss Whedon",
+        "producers": "Kevin Feige",
+        "box_office": "$1.521",
+        "country": "United States",
+        "cover": "posters/the_avengers.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Furious 7",
+        "year": 2015,
+        "director": "James Wan",
+        "producers": "Neal H. Moritz, Vin Diesel, Michael Fottrell",
+        "box_office": "$1.515",
+        "country": "United States China",
+        "cover": "posters/Furious_7_poster.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "director": "Joseph Kosinski",
+        "producers": "Jerry Bruckheimer, Tom Cruise, Christopher McQuarrie, David Ellison",
+        "box_office": "$1.496",
+        "country": "United States",
+        "cover": "posters/220px-Top_Gun_Maverick_Poster.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Frozen 2",
+        "year": 2019,
+        "director": "Chris Buck, Jennifer Lee",
+        "producers": "Peter Del Vecho",
+        "box_office": "$1.453",
+        "country": "United States",
+        "cover": "posters/frozen2.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Barbie",
+        "year": 2023,
+        "director": "Greta Gerwig",
+        "producers": "David Heyman, Margot Robbie, Tom Ackerley, Robbie Brenner",
+        "box_office": "$1.446",
+        "country": "United States United Kingdom",
+        "cover": "posters/Barbie_2023_poster.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "director": "Joss Whedon",
+        "producers": "Kevin Feige",
+        "box_office": "$1.405",
+        "country": "United States",
+        "cover": "posters/Avengers_Age_of_Ultron_poster.jpg"
+    },
+    {
+        "id": 18,
+        "title": "The Super Mario Bros. Movie",
+        "year": 2023,
+        "director": "Aaron Horvath, Michael Jelenic",
+        "producers": "Chris Meledandri, Shigeru Miyamoto",
+        "box_office": "$1.360",
+        "country": "United States",
+        "cover": "posters/220px-The_Super_Mario_Bros._Movie_poster.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Black Panther",
+        "year": 2018,
+        "director": "Ryan Coogler",
+        "producers": "Kevin Feige",
+        "box_office": "$1.35",
+        "country": "United States",
+        "cover": "posters/black_panter.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "year": 2011,
+        "director": "David Yates",
+        "producers": "David Heyman, David Barron, J. K. Rowling",
+        "box_office": "$1.342",
+        "country": "United Kingdom United States",
+        "cover": "posters/hp.jpeg"
+    },
+    {
+        "id": 21,
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "director": "Shawn Levy",
+        "producers": "Kevin Feige, Lauren Shuler Donner, Ryan Reynolds, Shawn Levy",
+        "box_office": "$1.338",
+        "country": "United States",
+        "cover": "posters/deadpool.webp"
+    },
+    {
+        "id": 22,
+        "title": "Star Wars: The Last Jedi",
+        "year": 2017,
+        "director": "Rian Johnson",
+        "producers": "Kathleen Kennedy, Ram Bergman",
+        "box_office": "$1.334",
+        "country": "United States",
+        "cover": "posters/Star_Wars_The_Last_Jedi.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "director": "J. A. Bayona",
+        "producers": "Frank Marshall, Patrick Crowley, Bel\u00e9n Atienza",
+        "box_office": "$1.31",
+        "country": "China United States",
+        "cover": "posters/220px-Jurassic_World_Fallen_Kingdom.png"
+    },
+    {
+        "id": 24,
+        "title": "Frozen",
+        "year": 2013,
+        "director": "Chris Buck, Jennifer Lee",
+        "producers": "Peter Del Vecho",
+        "box_office": "$1.280",
+        "country": "United States",
+        "cover": "posters/frozen.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Beauty and the Beast",
+        "year": 2017,
+        "director": "Bill Condon",
+        "producers": "David Hoberman, Todd Lieberman",
+        "box_office": "$1.266",
+        "country": "United States",
+        "cover": "posters/Beauty_and_the_Beast_2017_poster.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Incredibles 2",
+        "year": 2018,
+        "director": "Brad Bird",
+        "producers": "John Walker, Nicole Paradis Grindle",
+        "box_office": "$1.243",
+        "country": "United States",
+        "cover": "posters/incread.webp"
+    },
+    {
+        "id": 27,
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "director": "F. Gary Gray",
+        "producers": "Neal H. Moritz, Vin Diesel, Michael Fottrell, Chris Morgan",
+        "box_office": "$1.236",
+        "country": "United States China",
+        "cover": "posters/The_Fate_of_The_Furious_Theatrical_Poster.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Iron Man 3",
+        "year": 2013,
+        "director": "Shane Black",
+        "producers": "Kevin Feige",
+        "box_office": "$1.266",
+        "country": "United States",
+        "cover": "posters/Iron_Man_3_poster.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Minions",
+        "year": 2015,
+        "director": "Pierre Coffin, Kyle Balda",
+        "producers": "Chris Meledandri, Janet Healy",
+        "box_office": "$1.159",
+        "country": "United States",
+        "cover": "posters/minions.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "director": "Anthony RussoJoe Russo",
+        "producers": "Kevin Feige",
+        "box_office": "$1.155",
+        "country": "United States",
+        "cover": "posters/Captain_America_Civil_War_poster.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Aquaman",
+        "year": 2018,
+        "director": "James Wan",
+        "producers": "Peter Safran, Rob Cowan",
+        "box_office": "$1.152",
+        "country": "United States",
+        "cover": "posters/aquamen.jpg"
+    },
+    {
+        "id": 32,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "director": "Peter Jackson",
+        "producers": "Barrie M. Osborne, Fran Walsh, Peter Jackson",
+        "box_office": "$1.151",
+        "country": "New Zealand Germany United States",
+        "cover": "posters/Lord_Rings_Return_King.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Spider-Man: Far From Home",
+        "year": 2019,
+        "director": "Jon Watts",
+        "producers": "Kevin Feige, Amy Pascal",
+        "box_office": "$1.133",
+        "country": "United States",
+        "cover": "posters/sp.webp"
+    },
+    {
+        "id": 34,
+        "title": "Captain Marvel",
+        "year": 2019,
+        "director": "Anna BodenRyan Fleck",
+        "producers": "Kevin Feige",
+        "box_office": "$1.131",
+        "country": "United States",
+        "cover": "posters/captainM.webp"
+    },
+    {
+        "id": 35,
+        "title": "Transformers: Dark of the Moon",
+        "year": 2011,
+        "director": "Michael Bay",
+        "producers": "Lorenzo di Bonaventura, Tom DeSanto, Don Murphy, Ian Bryce",
+        "box_office": "$1.124",
+        "country": "United States",
+        "cover": "posters/transformers.jpg"
+    },
+    {
+        "id": 36,
+        "title": "Skyfall",
+        "year": 2012,
+        "director": "Sam Mendes",
+        "producers": "Michael G. Wilson, Barbara Broccoli",
+        "box_office": "$1.109",
+        "country": "United KingdomUnited States",
+        "cover": "posters/220px-Skyfall_poster.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Transformers: Age of Extinction",
+        "year": 2014,
+        "director": "Michael Bay",
+        "producers": "Lorenzo di Bonaventura, Tom DeSanto, Don Murphy, Ian Bryce",
+        "box_office": "$1.104",
+        "country": "United States",
+        "cover": "posters/Transformers_Age_of_Extinction_poster.jpg"
+    },
+    {
+        "id": 38,
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "director": "Christopher Nolan",
+        "producers": "Emma Thomas, Christopher Nolan, Charles Roven",
+        "box_office": "$1.115",
+        "country": "United States United Kingdom",
+        "cover": "posters/Dark_knight_rises_poster.jpg"
+    },
+    {
+        "id": 39,
+        "title": "Joker",
+        "year": 2019,
+        "director": "Todd Phillips",
+        "producers": "Todd Phillips, Bradley Cooper, Emma Tillinger Koskoff",
+        "box_office": "$1.079",
+        "country": "United States",
+        "cover": "posters/joker.jpg"
+    },
+    {
+        "id": 40,
+        "title": "Star Wars: The Rise of Skywalker",
+        "year": 2019,
+        "director": "J. J. Abrams",
+        "producers": "Kathleen Kennedy, J. J. Abrams, Michelle Rejwan",
+        "box_office": "$1.077",
+        "country": "United States",
+        "cover": "posters/Star_Wars_The_Rise_of_Skywalker_poster.jpg"
+    },
+    {
+        "id": 41,
+        "title": "Toy Story 4",
+        "year": 2019,
+        "director": "Josh Cooley",
+        "producers": "Mark Nielsen, Jonas Rivera",
+        "box_office": "$1.074",
+        "country": "United States",
+        "cover": "posters/Toy_Story_4_poster.jpg"
+    },
+    {
+        "id": 42,
+        "title": "Toy Story 3",
+        "year": 2010,
+        "director": "Lee Unkrich",
+        "producers": "Darla K. Anderson",
+        "box_office": "$1.067",
+        "country": "United States",
+        "cover": "posters/toy3.webp"
+    },
+    {
+        "id": 43,
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": 2006,
+        "director": "Gore Verbinski",
+        "producers": "Jerry Bruckheimer",
+        "box_office": "$1.066",
+        "country": "United States",
+        "cover": "posters/Pirates_of_the_caribbean_2_poster_b.jpg"
+    },
+    {
+        "id": 44,
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "director": "Gareth Edwards",
+        "producers": "Kathleen Kennedy, Allison Shearmur, Simon Emanuel",
+        "box_office": "$1.059",
+        "country": "United States",
+        "cover": "posters/rogue.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Aladdin",
+        "year": 2019,
+        "director": "Guy Ritchie",
+        "producers": "Dan Lin, Jonathan Eirich",
+        "box_office": "$1.054",
+        "country": "United States",
+        "cover": "posters/alladin.jpg"
+    },
+    {
+        "id": 46,
+        "title": "Moana 2 \u2020",
+        "year": 2024,
+        "director": "David Derrick Jr., Jason Hand, Dana Ledoux Miller",
+        "producers": "Christina Chen, Yvett Merino",
+        "box_office": "$1.05",
+        "country": "United States",
+        "cover": "posters/220px-Moana_2_poster.jpg"
+    },
+    {
+        "id": 47,
+        "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "year": 1999,
+        "director": "George Lucas",
+        "producers": "Rick McCallum",
+        "box_office": "$1.047",
+        "country": "United States",
+        "cover": "posters/220px-Star_Wars_Phantom_Menace_poster.jpg"
+    },
+    {
+        "id": 48,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "year": 2011,
+        "director": "Rob Marshall",
+        "producers": "Jerry Bruckheimer",
+        "box_office": "$1.046",
+        "country": "United States",
+        "cover": "posters/Pirates_of_the_Caribbean_-_On_Stranger_Tides.png"
+    },
+    {
+        "id": 49,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "director": "Steven Spielberg",
+        "producers": "Kathleen Kennedy, Gerald R. Molen",
+        "box_office": "$1.058",
+        "country": "United States",
+        "cover": "posters/Jurassic_Park_poster.jpg"
+    },
+    {
+        "id": 50,
+        "title": "Despicable Me 3",
+        "year": 2017,
+        "director": "Pierre Coffin, Kyle Balda",
+        "producers": "Chris Meledandri, Janet Healy",
+        "box_office": "$1.035",
+        "country": "United States",
+        "cover": "posters/220px-Despicable_Me_3_theatrical_release_poster.jpg"
+    }
+]
