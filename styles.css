@@ -84,3 +84,35 @@ h1{
 .film-details {
     font-size: 13px;
 }
+@media (max-width: 768px) {
+    h1{
+        font-size: 200%;
+    }
+    #filmsContainer {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+
+    .search-container {
+        flex-direction: column;
+        width: 50%;
+        margin-top: 12%;
+    }
+
+    #search, #filter-column {
+        font-size: 14px;
+        padding: 7px;
+    }
+    .film-card{
+        width: 63%;
+        height: 46vh;
+        padding: 38px;
+        margin-bottom: 14px;
+    }
+    .film-title {
+        font-size: 18px;
+    }
+
+    .film-details {
+        font-size: 12px;
+    }
+}
